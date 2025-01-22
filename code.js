@@ -13,11 +13,11 @@ function take(){
 }
 
 function mul1(){
-    amount=amount*2
+    amount=amount*amount
     ssds.innerHTML=amount;
 }
 
 function mul2(){
-    amount=amount*amount
+    amount=amount*0
     ssds.innerHTML=amount;
 }
