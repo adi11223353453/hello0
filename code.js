@@ -18,6 +18,6 @@ function mul1(){
 }
 
 function mul2(){
-    amount=amount*0
+    amount=amount*amount
     ssds.innerHTML=amount;
 }
